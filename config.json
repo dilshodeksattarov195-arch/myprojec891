@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercecrypt",
+        "uuid": 1084347,
+        "checksum": "ipypyc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
